@@ -6,6 +6,10 @@ end_date: 2024-11-09
 preliminary_floor_plan_deadline: 2024-10-08
 digital_sign_submission_deadline: 2024-10-24
 incentive_rate_deadline: 2024-10-08
+security_coordinator:
+  name: Travis Wauneka
+  email: travis.wauneka@austintexas.gov
+  phone: 5124044104
 sales_manager:
   name: Jeff Kuryak
   email: jeff.kuryak@austintexas.gov
